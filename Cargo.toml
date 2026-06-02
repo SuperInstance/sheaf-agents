@@ -1,0 +1,11 @@
+[package]
+name = "sheaf-agents"
+version = "0.1.0"
+edition = "2021"
+description = "Cellular sheaf framework for multi-agent coordination via sheaf cohomology"
+license = "MIT"
+repository = "https://github.com/SuperInstance/sheaf-agents"
+keywords = ["sheaf", "cohomology", "agents", "topology", "distributed"]
+categories = ["mathematics", "science"]
+
+[dependencies]
